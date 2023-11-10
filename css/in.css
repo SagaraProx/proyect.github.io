@@ -1,0 +1,27 @@
+.intro{
+    background-color: rgb(241, 241, 241);
+    max-width: 800px;
+    border: 5px solid;
+    padding: 25px;
+    margin: auto;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.header{
+    margin-bottom: 30px;
+}
+.carrusel-container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.carrusel-slide {
+    display: none;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
